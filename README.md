@@ -1,4 +1,4 @@
-# RSA_Mã Hoá
+## RSA_Mã Hoá
 # Các tùy chọn
 - Tạo cặp khóa RSA
 - Mã hóa tin nhắn trong terminal
