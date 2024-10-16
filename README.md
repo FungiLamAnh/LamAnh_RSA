@@ -16,6 +16,8 @@ Thuật toán RSA đơn giản thực hiện việc mã hóa và giải mã tin 
 - Tạo cặp khóa RSA
 - Mã hóa tin nhắn trong terminal
 - Giải mã tin nhắn trong terminal
+
 ![image](https://github.com/user-attachments/assets/9ba45f87-62b2-40bb-80ce-d8aa20e3c11c)
 ### Giao diện GUI
+
 ![image](https://github.com/user-attachments/assets/1e50fe3e-7a96-4f8f-99fe-761e641d509b)
