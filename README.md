@@ -8,5 +8,5 @@
 ### Nguyên lý chung RSA
 Thuật toán RSA đơn giản thực hiện việc mã hóa và giải mã tin nhắn bằng với các bước cơ bản
 - Mã hoá bảng chữ cái
-- - Khi một ký tự được mã hóa, trước hết nó sẽ được chuyển thành chuỗi số (theo bảng alphabet_e), và sau đó sẽ áp dụng thuật toán RSA lên chuỗi số này.
+  + Khi một ký tự được mã hóa, trước hết nó sẽ được chuyển thành chuỗi số (theo bảng alphabet_e), và sau đó sẽ áp dụng thuật toán RSA lên chuỗi số này.
 - 
